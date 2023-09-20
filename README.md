@@ -1,2 +1,2 @@
 # biproj
-contains model projects
+completed bi prac projects
